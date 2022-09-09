@@ -1,7 +1,7 @@
 module.exports = {
   apps : [{
     name: "adverto
-    script: "./index.js"
+    script: "./bot.js"
     instances: "max",
     env: {
       NODE_ENV: "development",
